@@ -1,2 +1,3 @@
 hai rafi
-berikan tambahan di fitur A
+fitur A
+fitur B
